@@ -5,7 +5,15 @@
  Currently, I'm a first year student at [Jaypee University of Engineering and Technology(JUET)](https://www.juet.ac.in/) . I have studied BASIC, HTML,Python, MySQL, C and C++. I have also worked briefly in Adobe Animate and Unity. Currently, I'm improving my skills in these programming languages, and learning new ones like C# and Java. I also have a knack for Computer🖥 Hardware and Cars🚗. Besides programming, my other hobbies are playing video games🎮, playing football and watching [YouTube](https://www.youtube.com/).
  
  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="320" />
- <br><br><br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ### My contact Information -
 † My [LinkedIn](https://in.linkedin.com/in/naman-khattar-3594ba1b9)<br>
 † [Mail](mailto:khattarnaman915@gmail.com) me!
