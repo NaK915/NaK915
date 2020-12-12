@@ -2,7 +2,7 @@
  
  I am Naman Khattar, a game dev enthusiast from [India](https://en.wikipedia.org/wiki/India)
  
- Currently, I'm a first year student at [Jaypee University of Engineering and Technology(JUET)] (juet.ac.in) . I have studied BASIC, HTML,Python, MySQL, C and C++. I have also worked briefly in Adobe Animate and Unity. Currently, I'm improving my skills in these programming languages, and learning new ones like C# and Java. I also have a knack for Computer🖥 Hardware and Cars🚗. Besides programming, my other hobbies are playing video games🎮, playing football and watching [YouTube](youtube.com).
+ Currently, I'm a first year student at [Jaypee University of Engineering and Technology(JUET)](juet.ac.in) . I have studied BASIC, HTML,Python, MySQL, C and C++. I have also worked briefly in Adobe Animate and Unity. Currently, I'm improving my skills in these programming languages, and learning new ones like C# and Java. I also have a knack for Computer🖥 Hardware and Cars🚗. Besides programming, my other hobbies are playing video games🎮, playing football and watching [YouTube](youtube.com).
  
  <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="320" />
  
