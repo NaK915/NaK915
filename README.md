@@ -1,9 +1,12 @@
  ### Hey there! 👋 Naman here!
  
- I am Naman Khattar, a game dev enthusiast from [India](https://en.wikipedia.org/wiki/India)
+ I am Naman Khattar, a CyberSecurity enthusiast from [India](https://en.wikipedia.org/wiki/India)
  
- Currently, I'm a first year student at [Jaypee University of Engineering and Technology(JUET)](https://www.juet.ac.in/) . I have studied BASIC, HTML,Python, MySQL, C and C++. I have also worked briefly in Adobe Animate and Unity. Currently, I'm improving my skills in these programming languages, and learning new ones like C# and Java. I also have a knack for Computer🖥 Hardware and Cars🚗. Besides programming, my other hobbies are playing video games🎮, playing football and watching [YouTube](https://www.youtube.com/).
+I'm currently a first year student, studying in the field of CyberSecurity. I have studied languages like Python, C, C++, SQL. I have also gained experience in Linux Command Line Interface and am currently working on learning more about rotkits and cyber attacks. 
  
+ ### My Tech Stack - 
+ >>> Python | C++ | C
+ >>> Unity | Filmora | Adobe Animate | VSCode
  <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*-HtkHUxjLiK0tj6qOzdOrw.gif" width="367" height="196" />
  
  
