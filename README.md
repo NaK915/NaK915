@@ -1,16 +1,17 @@
- ### Hey there! 👋 Naman here!
+ ## Hey there!
  
- I am Naman Khattar, a Tech enthusiast from [India](https://en.wikipedia.org/wiki/India)
+ I am Naman Khattar, a Full Stack Developer and Flutter Application Developer based out of India.
  
-I'm currently a first year student, studying in the field of Computer Science. I have studied languages like Python, C, C++, SQL. I have also gained experience in Linux Command Line Interface and am currently working on learning more about developing Android frontends and backends. 
+I'm currently a sophomore from Jaypee University of Engineering and Technology, Guna studying Computer Science. I am currently learning Full Stack Web Development and Flutter based Application Development. My areas of interest include Web3/Blockchain Development and CyberSecurity. 
  
  ### My Tech Stack - 
- 👉 Python | C++ | C <br>
- 👉 Unity | Filmora | Adobe Animate | VSCode
- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*-HtkHUxjLiK0tj6qOzdOrw.gif" width="367" height="196" />
+ * Programming Languages - Python, C, C++, JavaScript, Dart, HTML, CSS, Java <br>
+ * Libraries/Frameworks - React, Node, Express, Jade, Sass, Flutter
+ * Tools/Platforms - AWS, Git, GitHub, Firebase, Docker, Digital ocean, IPFS, Selenium
+ * Database - MySQL, MongoDB
  
- 
- 
+ ### My Stats - 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaK915&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaK915&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
  
  
  
@@ -18,20 +19,6 @@ I'm currently a first year student, studying in the field of Computer Science. I
  
  
 ### My contact Information -
-† My [LinkedIn](https://in.linkedin.com/in/naman-khattar-3594ba1b9)<br>
-† [Mail](mailto:khattarnaman915@gmail.com) me!
-
-<!--
-**NaK915/NaK915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* My [LinkedIn](https://in.linkedin.com/in/naman-khattar-3594ba1b9)<br>
+* [Mail](mailto:khattarnaman915@gmail.com) me!
+* My [Portfolio](https://nak915.github.io/portfolio)
