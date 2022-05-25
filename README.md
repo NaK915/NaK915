@@ -11,7 +11,7 @@ I'm currently a sophomore from Jaypee University of Engineering and Technology, 
  * Database - MySQL, MongoDB
  
  ### My Stats - 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaK915&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaK915&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+ [![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaK915&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaK915&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
  
  
  
@@ -19,6 +19,8 @@ I'm currently a sophomore from Jaypee University of Engineering and Technology, 
  
  
 ### My contact Information -
-* My [LinkedIn](https://in.linkedin.com/in/naman-khattar-3594ba1b9)<br>
+* [Linktree](https://linktr.ee/nak915)
+* My [Resume](https://drive.google.com/file/d/1zlJ8rJ19tLWyI8PUudjbx8Vf-7ePgZRn/view?usp=sharing)
+* My [LinkedIn](https://in.linkedin.com/in/naman-khattar-3594ba1b9)
 * [Mail](mailto:khattarnaman915@gmail.com) me!
 * My [Portfolio](https://nak915.github.io/portfolio)
